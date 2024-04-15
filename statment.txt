@@ -1,0 +1,81 @@
+ZARA is a Spanish clothing and accessories retailer based in Arteixo, Galicia. Founded on 24
+May 1975 by Amancio Ortega and Rosalía Mera, the brand is renowned for its ability to deliver
+new clothes to stores quickly and in small batches. Zara needs just two weeks to develop a new
+product and get it to stores, compared to the six-month industry average and launches around
+10,000 new designs each year. Zara was described by Louis Vuitton Fashion Director Daniel
+Piette as “possibly the most innovative and devastating retailer in the world. The company
+produces about 450 million items a year for its 1,770 stores in 86 countries. Zara has made of
+the use of Information Systems (IS) to advance in many areas. This has resulted in huge success
+for the company. This included the application of Business intelligence (BI) involves
+technologies, practices for collection, integration, and applications to analyze and present
+business information. The main aim of business intelligence is to promote better business
+decision-making. BI describes a group of information on concepts and methods to better
+decision-making in business. This is achieved by employing a fact-based support system. The
+intelligence systems are data-driven and sometimes used in executive information systems.
+Predictive views on business operations can be provided by the use of BI systems. predictive
+views on business operations can be provided by the use of BI systems since historical and
+current data has been gathered into a data bank performance management benchmarking is
+done whereby information on other companies in the same industry is gathered. Since Zara has
+a large network and therefore deals with large volumes of data, an enterprise information
+system has been employed in the firm. This is generally a type of computing system that
+involves an enterprise-class that is, typically offering total quality service handling large
+volumes of data, and is able to sustain a big organization. With this system, a technology
+platform is provided which enables the enterprise is provided to that information can be shared
+in all useful levels of management enterprise systems are important in removing the problem
+of fragmentation of information. This happens when there are numerous information systems
+in an enterprise. The problem is solved by developing a standard data structure. Zara is a big
+organization; the enterprise systems are housed in many different data centers and include a
+content management system as the main application. The Zara team comprises technology
+professionals. These include content specialists, network and system engineers, flash
+developers, database business analysts and administrators, software developers, quality
+assurance managers, and computer and applications support technicians. All these specialists
+
+DATABASE SYSTEM AI/DS
+
+National University of Computer
+and Emerging Sciences
+
+work in tandem to bring about a competitive advantage to businesses by allowing for quick-
+response capability. The Zara is devoted to integrating information technology appropriately
+
+into all areas of its operations and activities. The range of services and resources available to
+its clients is attributed to the commitment to integrating IT properly into the organization. The
+client services group in the Zara partners with staff and clients to identify and meet each group’s
+technological requirements. This group of technical advisors associates with departments to
+execute a roadmap for a team’s technological vision and then defines this vision within entity
+projects. Much support is required for invariable innovation. The Zara IT group is devoted to
+developing the community through technology and operates closely with business associates.
+The IT group is devoted to developing the community through technology and operates closely
+with business associates. The IT group has the technical support and tools they require to come
+up with new ideas and spread the ideas to the wider community worldwide. This ensures that
+client needs are realized. A constantly growing state-of-the-art technology infrastructure has
+enabled the firm to develop and maintain a fully integrated organization/ enterprise. The
+infrastructure has enabled the firm to develop and maintain a fully integrated organization/
+enterprise. The infrastructure entails a core of systems and attempts designed to produce the
+flexibility and capacity for innovation and growth. Zara thrives in an environment of change,
+experimentation, and learning that is spreading over the boundaries for the application of IT in
+their business in the enterprises’ easy-to-use modular tools, templates, and platforms that
+involve all sides of life at the Zara firms including career development, administration, and
+operations are implemented and developed. In Zara other web-based solutions are deployed
+with advanced knowledge management thereby making a big shift in the quality and speed of
+work in how the enterprises function. In the exploding growth of the software market, a new
+world growth for the software market a new world of connectivity is realized in Zara. The
+urgency of the business recognizing the importance of corporate portals has enabled the linkage
+of information, data, people, and knowledge to provide business solutions. The corporate
+portals come from consumer portals like Alta-vista, yahoo! and Lycos. The portals (gateways)
+show the importance of letting clients have a wide scope of varied information on the web.
+This has given rise to the increase in multitasking, receiving information, and checking from
+varied sources and thereby getting involved in projects that cross geographical boundaries with
+this technology the needs of the community, employees, and even the extended network that is
+more advanced are served. Zara is possibly the most devastating and innovative retailer in the
+
+DATABASE SYSTEM AI/DS
+
+National University of Computer
+and Emerging Sciences
+
+world. With more than 1000 shops worldwide, Zara has turned controlled garment factories
+into a competitive advantage by making and designing garments. By making the garments
+themselves, it can quickly react to varying market trends. Zara has been able to succeed in
+building a massive brand, without promotion or advertising but through information systems
+and information technology.
