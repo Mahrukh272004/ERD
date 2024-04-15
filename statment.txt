@@ -79,3 +79,22 @@ into a competitive advantage by making and designing garments. By making the gar
 themselves, it can quickly react to varying market trends. Zara has been able to succeed in
 building a massive brand, without promotion or advertising but through information systems
 and information technology.
+
+
+
+
+Problem Statement
+You are required to design an Entity-Relationship Diagram (ERD) for the ZARA brand. The
+ERD should cover all the entities involved in the supply chain and manufacturing side of
+ZARA, as well as those involved in the retail side of ZARA. ZARA is a multinational company
+with manufacturing outlets around the world, so they have many vendors for the manufacturing
+side. Additionally, they have several types of employees, including contract workers,
+manufacturing staff, and business personnel such as marketing, retail, and finance. Employees
+are also located around the world.
+Regarding customers, there are two types: those who purchase online and those who buy from
+physical stores located worldwide. When a person purchases something in-store, they must
+provide their personal information to the system for record-keeping purposes. If a person buys
+something online, ZARA provides the delivery service to the customer.
+Keeping the above scenario in mind, create an ERD diagram that clearly shows all entities,
+their attributes, relationships, and cardinalities. Be as creative as possible, as your level of
+creativity and attention to detail can result in higher marks.
